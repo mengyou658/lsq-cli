@@ -9,8 +9,8 @@ import (
 	"github.com/gogf/gf/v2/os/gfile"
 	"github.com/gogf/gf/v2/text/gregex"
 	"github.com/gogf/gf/v2/text/gstr"
-	"gitlab.corp.qizuang.net/infra/lsq-cli/internal/consts"
-	"gitlab.corp.qizuang.net/infra/lsq-cli/utility/mlog"
+	"github.com/iAsuma/lsq-cli/internal/consts"
+	"github.com/iAsuma/lsq-cli/utility/mlog"
 )
 
 var (

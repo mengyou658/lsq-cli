@@ -6,9 +6,9 @@ import (
 	"github.com/gogf/gf/v2/text/gstr"
 	"github.com/gogf/gf/v2/util/gconv"
 	"github.com/gogf/gf/v2/util/gtag"
-	"gitlab.corp.qizuang.net/infra/lsq-cli/internal/consts"
-	"gitlab.corp.qizuang.net/infra/lsq-cli/utility/mlog"
-	"gitlab.corp.qizuang.net/infra/lsq-cli/utility/utils"
+	"github.com/iAsuma/lsq-cli/internal/consts"
+	"github.com/iAsuma/lsq-cli/utility/mlog"
+	"github.com/iAsuma/lsq-cli/utility/utils"
 )
 
 var (

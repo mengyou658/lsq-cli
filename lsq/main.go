@@ -3,9 +3,9 @@ package main
 import (
 	"github.com/gogf/gf/v2/os/gcmd"
 	"github.com/gogf/gf/v2/os/gctx"
-	"gitlab.corp.qizuang.net/infra/lsq-cli/internal/cmd"
-	_ "gitlab.corp.qizuang.net/infra/lsq-cli/internal/packed"
-	"gitlab.corp.qizuang.net/infra/lsq-cli/utility/mlog"
+	"github.com/iAsuma/lsq-cli/internal/cmd"
+	_ "github.com/iAsuma/lsq-cli/internal/packed"
+	"github.com/iAsuma/lsq-cli/utility/mlog"
 )
 
 func main() {
